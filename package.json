@@ -49,7 +49,8 @@
     "JamesCullum",
     "Alejandro Saenz",
     "Martin Rock-Evans",
-    "chinggg"
+    "chinggg",
+    "wswoodruff"
   ],
   "scripts": {
     "build:frontend": "cd frontend && node ./node_modules/@angular/cli/bin/ng build --aot --prod --output-hashing=none --vendor-chunk=true --source-map=false",
